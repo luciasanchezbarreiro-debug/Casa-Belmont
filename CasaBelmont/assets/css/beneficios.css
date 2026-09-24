@@ -1,0 +1,70 @@
+.beneficios{
+
+    background:#111;
+
+    width:100%;
+
+    margin:0;
+
+    padding:60px 0;
+
+    border-radius:0;
+
+    box-shadow:none;
+
+}
+
+.beneficios-grid{
+
+    width:90%;
+
+    max-width:1400px;
+
+    margin:auto;
+
+    display:grid;
+
+    grid-template-columns:repeat(4,1fr);
+
+    gap:40px;
+
+}
+
+
+.beneficio{
+
+    display:flex;
+
+    align-items:flex-start;
+
+    gap:18px;
+
+    color:white;
+
+}
+
+.beneficio i{
+
+    font-size:38px;
+
+    color:#C9A15B;
+
+}
+
+.beneficio h3{
+
+    font-size:18px;
+
+    margin-bottom:8px;
+
+}
+
+.beneficio p{
+
+    color:#cfcfcf;
+
+    line-height:1.6;
+
+    font-size:15px;
+
+}

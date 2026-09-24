@@ -1,0 +1,9 @@
+<?php
+include("includes/header.php");
+include("includes/navbar.php");
+include("includes/banner.php");
+include("includes/beneficios.php");
+include("includes/categorias.php");
+include("includes/productos_destacados.php");
+include("includes/footer.php");
+?>
